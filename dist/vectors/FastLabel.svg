@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 63">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-size: 30px;
+        font-family: SegoeScript-Bold, Segoe Script;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <text id="FastLabel" class="cls-1"><tspan x="156.179" y="33">FastLabel</tspan></text>
+</svg>
